@@ -1,0 +1,8 @@
+.animation-hide {
+  opacity: 1;
+  transition: opacity .1s;
+}
+
+.animation-hide:hover {
+  opacity: .6;
+}

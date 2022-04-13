@@ -1,0 +1,16 @@
+.khan__quote {
+  padding: 50px 0 0;
+  margin: 0;
+  font-size: 24px;
+  line-height: 34px;
+}
+
+.khan__quote-author {
+  display: block;
+  padding-top: 36px;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+

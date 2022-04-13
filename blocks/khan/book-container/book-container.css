@@ -1,0 +1,7 @@
+.book-container {
+  display: flex;
+  overflow: hidden;
+  max-height: 608px;
+  align-items: start;
+  padding-top: 68px;
+}
