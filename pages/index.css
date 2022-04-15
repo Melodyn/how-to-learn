@@ -72,9 +72,9 @@
 /* khan */
 
 @import url('../blocks/khan/khan.css');
-@import url('../buy-link/buy-link.css');
-@import url('../book-pic/book-pic.css');
-@import url('../book-container/book-container.css');
+@import url('../blocks/buy-link/buy-link.css');
+@import url('../blocks/book-pic/book-pic.css');
+@import url('../blocks/book-container/book-container.css');
 @import url('../blocks/khan/__author/khan__author.css');
 @import url('../blocks/khan/__container/khan__container.css');
 @import url('../blocks/khan/__quote/khan__quote.css');
@@ -86,7 +86,7 @@
 /* kaufman */
 
 @import url('../blocks/kaufman/kaufman.css');
-@import url('../kaufman-triangle/kaufman-triangle.css');
+@import url('../blocks/kaufman-triangle/kaufman-triangle.css');
 
 /* resources */
 
