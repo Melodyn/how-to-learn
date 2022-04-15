@@ -1,0 +1,22 @@
+/* этого нет в брифе, сделал на интерес */
+
+@keyframes animation-slider {
+  from {
+    position: relative;
+    left: 100%;
+  }
+
+  to {
+    position: relative;
+    left: -100%;
+  }
+}
+
+.animation-slider {
+  position: relative;
+  overflow: hidden;
+}
+
+.animation-slider > * {
+  animation: animation-slider 20s linear infinite;
+}
