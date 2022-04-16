@@ -1,6 +1,6 @@
 /* этого нет в брифе, сделал на интерес */
 
-@keyframes animation-slider {
+@keyframes slider {
   from {
     position: relative;
     left: 100%;
@@ -18,5 +18,5 @@
 }
 
 .animation-slider > * {
-  animation: animation-slider 20s linear infinite;
+  animation: slider 20s linear infinite;
 }
